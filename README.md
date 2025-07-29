@@ -5,11 +5,21 @@
 
 ## About Me
 
-An infrastructure engineer and DevOps specialist from South Africa who loves turning messy cloud estates into resilient, cost-savvy systems.
+An infrastructure engineer and DevOps specialist from South Africa who loves turning messy cloud estates into resilient, secure,cost-savvy systems.
 
-## I like
+## I like to
 - Solving Ops Problems with Code
-- Technical writing
+- Write Technical Articles
+
+## Projects
+- [fli](https://github.com/fractalops/fli) - a cli tool for network troubleshooting and analysis 
+
+## Some Articles:
+- [How Terraform Works: A visual Intro](https://medium.com/better-programming/how-terraform-works-a-visual-intro-6328cddbe067)
+- [Making Sense of Cloud Spend](https://medium.com/devops-dudes/diagnosing-the-cloud-cost-mess-fe8e38c62bd3)
+- [Notes on Troubleshooting](https://medium.com/towardsdev/notes-on-troubleshooting-7c9cebbd889d)
+
+[more...](https://medium.com/@mfundo)
 
 <!--
 **fractalops/fractalops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,7 +14,6 @@ An infrastructure engineer and DevOps specialist from South Africa who loves tur
 ## Projects
 - [fli](https://github.com/fractalops/fli) - a cli for network troubleshooting and analysis
 - [uatu](https://github.com/fractalops/uatu) - Your AI partner for system operations, from guided troubleshooting to autonomous problem-solving.
-- [chloe](https://github.com/fractalops/chloe) - A TUI for inspecting and managing your claude code sessions
 
 ## Some of my Articles:
 - [Making Sense of Cloud Spend](https://medium.com/devops-dudes/diagnosing-the-cloud-cost-mess-fe8e38c62bd3)

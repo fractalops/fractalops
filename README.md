@@ -14,6 +14,7 @@ An infrastructure engineer and DevOps specialist from South Africa who loves tur
 ## Projects
 - [fli](https://github.com/fractalops/fli) - a cli for network troubleshooting and analysis
 - [uatu](https://github.com/fractalops/uatu) - Your AI partner for system operations, from guided troubleshooting to autonomous problem-solving.
+- [ssmx](https://github.com/fractalops/ssmx) - A utility that aims to simplify and extend aws ssm ops: session management, instance-instace file transfer, port forwarding, composable operational workflows 
 
 ## Some of my Articles:
 - [Making Sense of Cloud Spend](https://medium.com/devops-dudes/diagnosing-the-cloud-cost-mess-fe8e38c62bd3)

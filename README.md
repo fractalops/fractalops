@@ -19,8 +19,6 @@ An infrastructure engineer and DevOps specialist from South Africa who loves tur
 ## Some of my Articles:
 - [Making Sense of Cloud Spend](https://medium.com/devops-dudes/diagnosing-the-cloud-cost-mess-fe8e38c62bd3)
 - [How Terraform Works: A visual Intro](https://medium.com/better-programming/how-terraform-works-a-visual-intro-6328cddbe067)
-- [Notes on Troubleshooting](https://medium.com/towardsdev/notes-on-troubleshooting-7c9cebbd889d)
-
 [more...](https://medium.com/@mfundo)
 
 <!--

@@ -15,6 +15,7 @@ An infrastructure engineer, DevOps specialist and MLOps engineer from South Afri
 - [fli](https://github.com/fractalops/fli) - a cli for network troubleshooting and analysis
 - [uatu](https://github.com/fractalops/uatu) - Your AI partner for system operations, from guided troubleshooting to autonomous problem-solving.
 - [ssmx](https://github.com/fractalops/ssmx) - Operator- and agent-friendly AWS SSM access, diagnostics, and repeatable composable workflows for EC2
+- [agent.sh](https://github.com/fractalops/agent.sh) - An explainable, bash-first coding agent harness.
 
 ## Some of my Articles:
 - [Making Sense of Cloud Spend](https://medium.com/devops-dudes/diagnosing-the-cloud-cost-mess-fe8e38c62bd3)

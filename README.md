@@ -5,7 +5,7 @@
 
 ## About Me
 
-An infrastructure engineer, DevOps specialist and MLOps engineer from South Africa who loves turning messy cloud estates into resilient, secure,cost-savvy systems.
+An infrastructure engineer, DevOps specialist and MLOps engineer from South Africa who loves turning messy cloud, data & ML estates into resilient, secure,cost-savvy systems.
 
 ## I like to
 - Solving Ops Problems with Code

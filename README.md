@@ -12,6 +12,8 @@ An infrastructure engineer, DevOps specialist and MLOps engineer from South Afri
 - Write Technical Articles
 
 ## Projects
+- [yappr](https://github.com/fractalops/yappr) - updates, questions, and approvals from your machines to your other devices, over iroh
+- [yappr.run](https://github.com/fractalops/yappr.run) - the yappr app in a browser, live at [yappr.run](https://yappr.run)
 - [fli](https://github.com/fractalops/fli) - a cli for network troubleshooting and analysis
 - [uatu](https://github.com/fractalops/uatu) - Your AI partner for system operations, from guided troubleshooting to autonomous problem-solving.
 

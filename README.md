@@ -13,10 +13,8 @@ An infrastructure engineer, DevOps specialist and MLOps engineer from South Afri
 
 ## Projects
 - [fli](https://github.com/fractalops/fli) - a cli for network troubleshooting and analysis
-- [xdraw](https://github.com/fractalops/xdraw) - a declarative language for producing editable Excalidraw scenes .
 - [uatu](https://github.com/fractalops/uatu) - Your AI partner for system operations, from guided troubleshooting to autonomous problem-solving.
-- [ssmx](https://github.com/fractalops/ssmx) - Operator- and agent-friendly AWS SSM access, diagnostics, and repeatable composable workflows for EC2
-- [agent.sh](https://github.com/fractalops/agent.sh) - An explainable, bash-first coding agent harness.
+
 
 ## Some of my Articles:
 - [Choosing the right .NET core Image for your workload](https://medium.com/c-sharp-programming/all-the-net-core-opsy-things-37b2e21eabb4)

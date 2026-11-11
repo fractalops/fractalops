@@ -17,7 +17,6 @@ An infrastructure engineer, DevOps specialist and MLOps engineer from South Afri
 
 ## Some of my Articles:
 - [Choosing the right .NET core Image for your workload](https://medium.com/c-sharp-programming/all-the-net-core-opsy-things-37b2e21eabb4)
-- [Making Sense of Cloud Spend](https://medium.com/devops-dudes/diagnosing-the-cloud-cost-mess-fe8e38c62bd3)
 - [How Terraform Works: A visual Intro](https://medium.com/better-programming/how-terraform-works-a-visual-intro-6328cddbe067)
 
 [more...](https://medium.com/@mfundo)
